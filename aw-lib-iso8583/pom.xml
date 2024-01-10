@@ -20,7 +20,7 @@
 		<guava.version>28.1-jre</guava.version>
 		<javassist.version>3.12.1.GA</javassist.version>
 		<commons-lang.version>2.6</commons-lang.version>
-		<joda-time.version>2.10.5</joda-time.version>
+		<joda-time.version>2.12.5</joda-time.version>
 	</properties>
 
 	<dependencies>
