@@ -21,7 +21,7 @@
 		<eclipse.jpa.persistance.version>2.7.5</eclipse.jpa.persistance.version>
 		<hibernate.core.version>5.4.8.Final</hibernate.core.version>
 		<hibernate.entitymanager.version>5.4.9.Final</hibernate.entitymanager.version>
-		<flyway.version>4.0.1</flyway.version>
+		<flyway.version>10.3.0</flyway.version>
 	</properties>
 
 	<dependencies>
