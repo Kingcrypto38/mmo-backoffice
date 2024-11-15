@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<cassandra.driver.version>3.8.0</cassandra.driver.version>
+		<cassandra.driver.version>4.0.0</cassandra.driver.version>
 		<find.bugs.version>3.0.2</find.bugs.version>
 	</properties>
 
