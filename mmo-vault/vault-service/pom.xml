@@ -17,10 +17,10 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Hoxton.RC2</spring-cloud.version>
-		<jjwt.version>0.9.1</jjwt.version>
+		<jjwt.version>0.12.0</jjwt.version>
 		<apache.httpcomponents.version>4.5.10</apache.httpcomponents.version>
 		<hibernate.validator.version>6.1.0.Final</hibernate.validator.version>
-		<springboot.actuator.version>2.2.1.RELEASE</springboot.actuator.version>
+		<springboot.actuator.version>2.2.10.RELEASE</springboot.actuator.version>
 	</properties>
 
 	<dependencies>
