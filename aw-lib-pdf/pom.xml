@@ -20,7 +20,7 @@
 		<itexthtml2pdf.version>2.0.0</itexthtml2pdf.version>
 		<itext.version>5.5.13</itext.version>
 		<bouncycastle.version>1.60</bouncycastle.version>
-		<jackson.databind.version>2.10.1</jackson.databind.version>
+		<jackson.databind.version>2.15.0</jackson.databind.version>
 		<xmlworker.version>5.5.13.1</xmlworker.version>
 		<junit.version>4.13-rc-2</junit.version>
 		<common-io.version>2.6</common-io.version>
